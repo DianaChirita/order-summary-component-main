@@ -24,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot](./order-summary-screenshot.JPG)
+![Screenshot mobile](./order-summary-screenshot-mobile.PNG)
 
 ## My process
 
