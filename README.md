@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](./order-summary-screenshot.JPG)
+![Screenshot](./order-summary-screenshot.JPG)
 
 ## My process
 
