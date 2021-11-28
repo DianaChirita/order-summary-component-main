@@ -45,4 +45,4 @@ Overall it was a nice challenge and I will continue to do some others in order t
 ## Author
 
 - Frontend Mentor - [@DianaChirita](https://www.frontendmentor.io/profile/DianaChirita)
-- Twitter - [@dianaa_codes](https://www.twitter.com/dianaa_codes)
+- Twitter - [@dianaa_elena](https://twitter.com/dianaa_elena)
